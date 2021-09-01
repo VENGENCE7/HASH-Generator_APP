@@ -49,7 +49,7 @@ pip3 install pyqt5
 ```
 ## Running 
 ```
-git clone 
+git clone https://github.com/VENGENCE7/HASH-Generator.git
 ```
 
           
