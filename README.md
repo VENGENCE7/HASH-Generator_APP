@@ -27,4 +27,29 @@ There are ***10 HASHES*** available:
 ![HG3](https://user-images.githubusercontent.com/86911386/131721176-53baf07e-13cb-4b3a-b9d8-906e8793c469.png)
 
 
+# Installation 
+### Windows
+Download the windows zip.<br/>
+### Linux
+Download the Linux tar.xz 
+<br/>
+### DOWNLOAD FROM:
+[releases](https://github.com/VENGENCE7/HASH-Generator/releases/tag/HASH_Gen_0.1). <br/>
+Extract and directly run from there.
+#### Running from terminal
+```
+cd <extracted_folder_name>
+./Hash-generator
+```
+## Running from source
+### Requirements
+
+```
+pip3 install pyqt5 
+```
+## Running 
+```
+git clone 
+```
+
           
