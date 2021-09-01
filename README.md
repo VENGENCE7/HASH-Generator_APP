@@ -50,6 +50,7 @@ pip3 install pyqt5
 ## Running 
 ```
 git clone https://github.com/VENGENCE7/HASH-Generator.git
+python3 Hash-Generator.py
 ```
 
           
